@@ -1,4 +1,4 @@
-<p>Hi, I'm Yunika.</p>
+<p>Hi, I'm Yunika. I am a Junior pursuing Computer Science degree at UT Arlington interested in Software & Web development and Machine Learning. I am an enthusiastic learner with decent programming skills (C++, C, Java, MATLAB, and Python) looking to expand my knowledge. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yxu1183" alt="yxu1183" /> </p>
 
@@ -8,15 +8,15 @@
 </p>
 
 <p align="center">
+<a href="https://www.linkedin.com/in/yunika02/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yunika02" height="20" width="20" /></a>
 <a href="https://www.facebook.com/yunika.upadhayaya" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yunika.upadhayaya" height="20" width="20" /></a>
   <a href="https://twitter.com/UpadhyayaYunika" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="UpadhyayaYunika" height="20" width="20" /></a>
-  <a href="https://www.linkedin.com/in/yunika02/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yunika02" height="20" width="20" /></a>
 </p>
 
 
 
 <!--
-**asheeshcric/asheeshcric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yxu1183/yxu1183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
