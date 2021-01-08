@@ -1,4 +1,4 @@
-<p>Hi, I'm Yunika. I am a Junior pursuing Computer Science degree at UT Arlington interested in Software & Web development and Machine Learning. I am an enthusiastic learner with decent programming skills (C++, C, Java, MATLAB, and Python) looking to expand my knowledge. </p>
+<p>Hi, I'm Yunika. I am a Junior pursuing Computer Science degree at UT Arlington interested in Software & Web development and Machine Learning. I am an enthusiastic learner with decent programming skills (C++, C, Java, and Python) looking to expand my knowledge. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yxu1183" alt="yxu1183" /> </p>
 
