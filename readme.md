@@ -1,5 +1,9 @@
 <p>Hi, I'm Yunika. I am a senior pursuing Computer Science degree at UT Arlington interested in Software & Web development and Machine Learning. I am an enthusiastic learner with decent programming skills (C++, C, Java, and Python) looking to expand my knowledge. </p>
 
+![Yunika's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxu1183&count_private=true&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxu1183&layout=compact)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yxu1183" alt="yxu1183" /> </p>
 
 <p align="center">
