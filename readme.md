@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yxu1183" alt="yxu1183" /> </p>
 
 <p align = "left">
-<img src = "https://github-readme-stats.vercel.app/api?username=yxu1183&count_private=true&show_icons=true&theme=synthwave" align = "left"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yxu1183&layout=compact" height = "200"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=yxu1183&count_private=true&show_icons=true&theme=synthwave"  width = "400" height = "150"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yxu1183&layout=compact" height = "150"/>
 </p>
 
 <p align="center"
