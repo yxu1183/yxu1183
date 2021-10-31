@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yxu1183" alt="yxu1183" /> </p>
 
 <p align = "left">
-<img src = "https://github-readme-stats.vercel.app/api?username=yxu1183&count_private=true&show_icons=true&theme=synthwave" height = "150" width = "400"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=yxu1183&count_private=true&show_icons=true&theme=synthwave" height = "150" width = "430"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yxu1183&layout=compact" height = "150"/>
 </p>
 
