@@ -1,4 +1,4 @@
-<p>Hi, I'm Yunika. I am a senior pursuing Computer Science degree at UT Arlington interested in Software Development and Machine Learning. I am an enthusiastic learner with decent programming skills (Python, Java, C++, C) looking to expand my knowledge. </p>
+<p>Hi, Welcome to my GitHub profile! </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yxu1183" alt="yxu1183" /> </p>
 
